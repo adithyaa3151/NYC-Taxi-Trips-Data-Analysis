@@ -56,7 +56,7 @@ The project focuses on addressing the following challenges:
 ### Steps to Run the Project  
 1. Clone the repository:  
    ```bash
-   git clone <repository-url>
+   git clone git clone https://github.com/adithyaa3151/NYC-Taxi-Trips-Data-Analysis
 2. Upload the NYC Taxi Trips and NYC Zones datasets to the working environment.  
 3. Execute the Jupyter Notebook for data preprocessing and analytics.  
 
